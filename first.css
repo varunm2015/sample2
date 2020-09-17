@@ -1,0 +1,20 @@
+html {
+	background: url(images/xyz.jpeg) no-repeat center center fixed; 
+	background-origin: 
+	background-size: cover;
+	height: 60%%;
+	overflow: hidden;
+}
+
+
+h1{ 
+       color:green;
+       background-color: #bbbbbb;
+       font-family: Arial ;
+       font-variant: small-caps;
+       line-height: 200% ;
+       align-items: center; 
+       font-style: italic;
+       float: center;
+
+        } 
